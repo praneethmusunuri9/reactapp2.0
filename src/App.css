@@ -1,0 +1,13 @@
+*{
+  margin:0;
+  padding:0;
+}
+
+.App{
+  margin: 50px;
+}
+
+.heading{
+  text-align: center;
+  padding: 10px;
+}

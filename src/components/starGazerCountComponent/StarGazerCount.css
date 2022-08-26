@@ -1,0 +1,9 @@
+.starGazeCount{
+    margin-right :50px;
+}
+
+p.starCount{
+    display : inline;
+    padding : 10px;
+    margin-top:0px;
+}

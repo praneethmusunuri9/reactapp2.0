@@ -1,0 +1,7 @@
+.topic-heading{
+    display: flex;
+}
+
+.topicName{
+    flex-grow: 8;
+}
